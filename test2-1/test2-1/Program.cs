@@ -10,6 +10,13 @@ namespace test2_1
     {
         static void Main(string[] args)
         {
+
+
+            #ifp
+
+            ghjghj
+
+
         }
     }
 }
